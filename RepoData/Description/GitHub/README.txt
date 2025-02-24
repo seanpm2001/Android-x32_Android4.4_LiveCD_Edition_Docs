@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️📖️ Android x32: The documentation source repository for the LiveCD build of Android 4.3. Try out 4 different editions of Android-x32+4.4 (KitKat) before installing it 
